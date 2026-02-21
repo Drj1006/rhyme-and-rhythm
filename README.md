@@ -1,16 +1,27 @@
-# final_project
+# Rhyme and Rhythm
 
-A new Flutter project.
+A colorful kids rhyme app built with Flutter.
 
-## Getting Started
+## Features
+- Splash Screen
+- Hero Animations
+- Kids Cartoon Theme
+- Clean UI
+- Material 3
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+- [Splash Screen](assets/screenshots/splash_screen.jpg)
+- [Home Screen](assets/screenshots/Home_Screen.jpg)
+- [Home Screen 2](assets/screenshots/Home_Screen_2.jpg)
+- [Rhyme image](assets/screenshots/Rhyme_1.jpg)
+- [Rhyme image](assets/screenshots/Rhyme_2.jpg)
+
+
+## Developer
+Durjoy Barua
